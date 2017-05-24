@@ -1,0 +1,14 @@
+body {
+	background-color: yellow;
+}
+.container {
+	width: 80%;
+	max-width: 500px;
+	padding: 20px;
+	margin: 50px auto 0;
+	background-color: #fff;
+	border-radius: 10px;
+}
+.weather {
+	background-color: pink;
+}
